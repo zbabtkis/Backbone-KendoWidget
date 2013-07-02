@@ -1,0 +1,19 @@
+{
+  "name": "backbone.kendoWidget",
+  "version": "0.0.0",
+  "main": "backbone.kendowidget.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "gitHead": "c6ddee646b91ce2464136a80e8c46068c6ecbaaf",
+  "_id": "backbone.kendoWidget@0.0.0",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "commit": "c6ddee646b91ce2464136a80e8c46068c6ecbaaf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zigzackattack/Backbone-KendoWidget.git"
+  }
+}
